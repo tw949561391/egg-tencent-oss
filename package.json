@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-tencent-oss.git"
+    "url": "git+https://github.com/tw949561391/egg-tencent-oss.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/tw949561391/egg-tencent-oss/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-tencent-oss#readme",
+  "homepage": "https://github.com/tw949561391/egg-tencent-oss#readme",
   "author": "",
   "license": "MIT"
 }
